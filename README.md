@@ -1,1 +1,2 @@
-# app-graphql_and_node
+# Aplicação Event Booking 
+  GraphQL, Node.js, MongoDB e React.js
